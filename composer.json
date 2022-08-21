@@ -1,0 +1,22 @@
+{
+    "name": "iamkarsoft/laravel-package-skeleton",
+    "description": "a scaffold for creating laravel packages",
+    "type": "project",
+    "license": "MIT",
+    "homepage": "https://github.com/iamkarsoft/laravel-package-skeleton",
+    "authors": [
+        {
+            "name": "Kofi Ramos Amoussou",
+            "email": "karsoft92@gmail.com"
+        }
+    ],
+    "require": {
+         "php": "^7.3|^8.0"
+     },
+    "require-dev": {
+        "orchestra/testbench": "^6.20",
+        "phpunit/phpunit": "^9.5",
+        "friendsofphp/php-cs-fixer": "dev-master"
+     },
+    "minimum-stability": "dev"
+  }
